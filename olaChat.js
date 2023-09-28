@@ -1,1 +1,1 @@
-console.log("Olá, ChatGPT!");
+console.log("Olá, ChatGPT");
